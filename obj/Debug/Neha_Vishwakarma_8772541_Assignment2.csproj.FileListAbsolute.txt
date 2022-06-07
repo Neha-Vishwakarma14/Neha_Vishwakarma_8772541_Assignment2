@@ -1,0 +1,8 @@
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\obj\Debug\Neha_Vishwakarma_8772541_Assignment2.csproj.AssemblyReference.cache
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\obj\Debug\Neha_Vishwakarma_8772541_Assignment2.csproj.SuggestedBindingRedirects.cache
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\obj\Debug\Neha_Vishwakarma_8772541_Assignment2.csproj.CoreCompileInputs.cache
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\bin\Debug\Neha_Vishwakarma_8772541_Assignment2.exe.config
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\bin\Debug\Neha_Vishwakarma_8772541_Assignment2.exe
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\bin\Debug\Neha_Vishwakarma_8772541_Assignment2.pdb
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\obj\Debug\Neha_Vishwakarma_8772541_Assignment2.exe
+D:\Neha\Conestoga\Semester-2\PROG8170-SoftwareQualityAssurance\Test\Neha_Vishwakarma_8772541_Assignment2\obj\Debug\Neha_Vishwakarma_8772541_Assignment2.pdb
